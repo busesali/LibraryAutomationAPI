@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|c:\\users\\buse\\source\\repos\\libraryautomationapi\\libraryautomationapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|solutionrelative:libraryautomationapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|c:\\users\\buse\\source\\repos\\libraryautomationapi\\libraryautomationapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|solutionrelative:libraryautomationapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Migrations\\20250216113050_UpdateLastModifiedByToString.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryAutomationAPI\\Migrations\\20250216113050_UpdateLastModifiedByToString.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|c:\\users\\buse\\source\\repos\\libraryautomationapi\\libraryautomationapi\\models\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|solutionrelative:libraryautomationapi\\models\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|c:\\users\\buse\\source\\repos\\libraryautomationapi\\libraryautomationapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|solutionrelative:libraryautomationapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|c:\\users\\buse\\source\\repos\\libraryautomationapi\\libraryautomationapi\\models\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|solutionrelative:libraryautomationapi\\models\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|c:\\users\\buse\\source\\repos\\libraryautomationapi\\libraryautomationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|solutionrelative:libraryautomationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|c:\\users\\buse\\source\\repos\\libraryautomationapi\\libraryautomationapi\\helpers\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|solutionrelative:libraryautomationapi\\helpers\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|c:\\users\\buse\\source\\repos\\libraryautomationapi\\libraryautomationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|solutionrelative:libraryautomationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|c:\\users\\buse\\source\\repos\\libraryautomationapi\\libraryautomationapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|solutionrelative:libraryautomationapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Migrations\\20250216113135_UpdateLastModifiedByToString.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryAutomationAPI\\Migrations\\20250216113135_UpdateLastModifiedByToString.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|c:\\users\\buse\\source\\repos\\libraryautomationapi\\libraryautomationapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|solutionrelative:libraryautomationapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|c:\\users\\buse\\source\\repos\\libraryautomationapi\\libraryautomationapi\\models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|solutionrelative:libraryautomationapi\\models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|c:\\users\\buse\\source\\repos\\libraryautomationapi\\libraryautomationapi\\models\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|solutionrelative:libraryautomationapi\\models\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|c:\\users\\buse\\source\\repos\\libraryautomationapi\\libraryautomationapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|solutionrelative:libraryautomationapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|c:\\users\\buse\\source\\repos\\libraryautomationapi\\libraryautomationapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|solutionrelative:libraryautomationapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|c:\\users\\buse\\source\\repos\\libraryautomationapi\\libraryautomationapi\\migrations\\20250215114716_createusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|solutionrelative:libraryautomationapi\\migrations\\20250215114716_createusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|c:\\users\\buse\\source\\repos\\libraryautomationapi\\libraryautomationapi\\migrations\\20250215125908_createcategoriestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|solutionrelative:libraryautomationapi\\migrations\\20250215125908_createcategoriestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|c:\\users\\buse\\source\\repos\\libraryautomationapi\\libraryautomationapi\\migrations\\20250215130122_updatebookandcategorytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|solutionrelative:libraryautomationapi\\migrations\\20250215130122_updatebookandcategorytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|c:\\users\\buse\\source\\repos\\libraryautomationapi\\libraryautomationapi\\migrations\\20250215124608_createbookstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|solutionrelative:libraryautomationapi\\migrations\\20250215124608_createbookstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|c:\\users\\buse\\source\\repos\\libraryautomationapi\\libraryautomationapi\\migrations\\20250216162151_convertlastmodifiedbytostring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CCEFB2-CEC2-464F-9EF2-77C863705A5D}|LibraryAutomationAPI\\LibraryAutomationAPI.csproj|solutionrelative:libraryautomationapi\\migrations\\20250216162151_convertlastmodifiedbytostring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 383,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250216162151_ConvertLastModifiedByToString.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Migrations\\20250216162151_ConvertLastModifiedByToString.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Migrations\\20250216162151_ConvertLastModifiedByToString.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Migrations\\20250216162151_ConvertLastModifiedByToString.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Migrations\\20250216162151_ConvertLastModifiedByToString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:21:51.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250216113135_UpdateLastModifiedByToString.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Migrations\\20250216113135_UpdateLastModifiedByToString.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Migrations\\20250216113135_UpdateLastModifiedByToString.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Migrations\\20250216113135_UpdateLastModifiedByToString.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Migrations\\20250216113135_UpdateLastModifiedByToString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T11:31:35.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250216113050_UpdateLastModifiedByToString.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Migrations\\20250216113050_UpdateLastModifiedByToString.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Migrations\\20250216113050_UpdateLastModifiedByToString.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Migrations\\20250216113050_UpdateLastModifiedByToString.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Migrations\\20250216113050_UpdateLastModifiedByToString.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T11:30:50.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Models\\Dto\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Models\\Dto\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Models\\Dto\\CategoryDto.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Models\\Dto\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:08:07.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAUwGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:02:57.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250215130122_UpdateBookAndCategoryTables.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Migrations\\20250215130122_UpdateBookAndCategoryTables.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Migrations\\20250215130122_UpdateBookAndCategoryTables.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Migrations\\20250215130122_UpdateBookAndCategoryTables.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Migrations\\20250215130122_UpdateBookAndCategoryTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:01:22.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250215125908_CreateCategoriesTable.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Migrations\\20250215125908_CreateCategoriesTable.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Migrations\\20250215125908_CreateCategoriesTable.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Migrations\\20250215125908_CreateCategoriesTable.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Migrations\\20250215125908_CreateCategoriesTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:59:09.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Models\\Category.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Models\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:58:14.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Models\\Dto\\BookDto.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Models\\Dto\\BookDto.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Models\\Dto\\BookDto.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Models\\Dto\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:54:02.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAiwHgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:46:53.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250215124608_CreateBooksTable.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Migrations\\20250215124608_CreateBooksTable.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Migrations\\20250215124608_CreateBooksTable.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Migrations\\20250215124608_CreateBooksTable.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Migrations\\20250215124608_CreateBooksTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:46:09.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:45:22.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Models\\Dto\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Models\\Dto\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Models\\Dto\\UserLoginDto.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Models\\Dto\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:02:07.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Models\\Dto\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Models\\Dto\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Models\\Dto\\UserRegisterDto.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Models\\Dto\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:01:54.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T11:52:36.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Helpers\\JwtService.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Helpers\\JwtService.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Helpers\\JwtService.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Helpers\\JwtService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T11:48:58.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250215114716_CreateUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Migrations\\20250215114716_CreateUserTable.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Migrations\\20250215114716_CreateUserTable.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Migrations\\20250215114716_CreateUserTable.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Migrations\\20250215114716_CreateUserTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T11:47:16.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Models\\User.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T11:37:30.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Program.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T11:33:40.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LibraryAutomationAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T11:32:50.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryAutomationAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\LibraryAutomationAPI\\LibraryAutomationAPI\\appsettings.json",
+              "RelativeToolTip": "LibraryAutomationAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T11:31:54.438Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
