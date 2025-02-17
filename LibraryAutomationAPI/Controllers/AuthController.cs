@@ -51,7 +51,7 @@ namespace LibraryAutomationAPI.Controllers
             if (dbUser == null || dbUser.PasswordHash != HashPassword(loginDto.Password))
                 return Unauthorized("Geçersiz kullanıcı adı veya şifre!");
 
-            var token = _jwtService.GenerateToken(dbUser); // 📌 Kullanıcı nesnesini gönderiyoruz
+            var token = _jwtService.GenerateToken(dbUser); 
 
             return Ok(new { Token = token });
         }

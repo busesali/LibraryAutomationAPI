@@ -23,7 +23,7 @@ namespace LibraryAutomationAPI.Controllers
         public async Task<ActionResult<IEnumerable<object>>> GetBooks()
         {
             var books = await _context.Books
-                .Include(b => b.Category) // 📌 Kategoriyi de getiriyoruz
+                .Include(b => b.Category) 
                 .Select(b => new
                 {
                     b.Id,
@@ -31,8 +31,8 @@ namespace LibraryAutomationAPI.Controllers
                     b.Author,
                     b.Genre,
                     b.PublishDate,
-                    CategoryName = b.Category.Name,  // 📌 Kullanıcı kategori ID yerine adını görecek
-                    LastModifiedBy = b.LastModifiedBy // 📌 Giriş yapan kullanıcının adı string olarak dönecek
+                    CategoryName = b.Category.Name,  // Kullanıcı kategori ID yerine adını görecek
+                    LastModifiedBy = b.LastModifiedBy // Giriş yapan kullanıcının adı string olarak dönecek
                 })
                 .ToListAsync();
 
@@ -52,8 +52,8 @@ namespace LibraryAutomationAPI.Controllers
                     b.Author,
                     b.Genre,
                     b.PublishDate,
-                    CategoryName = b.Category.Name,  // 📌 Kullanıcı kategori ID yerine adını görecek
-                    LastModifiedBy = b.LastModifiedBy // 📌 Giriş yapan kullanıcının adı string olarak dönecek
+                    CategoryName = b.Category.Name,  
+                    LastModifiedBy = b.LastModifiedBy 
                 })
                 .FirstOrDefaultAsync();
 
@@ -83,7 +83,7 @@ namespace LibraryAutomationAPI.Controllers
                 Genre = bookDto.Genre,
                 PublishDate = bookDto.PublishDate,
                 CategoryId = bookDto.CategoryId,
-                LastModifiedBy = username // 📌 Kullanıcının adı otomatik atanacak
+                LastModifiedBy = username // Kullanıcının adı otomatik atanacak
             };
 
             _context.Books.Add(book);
@@ -99,7 +99,7 @@ namespace LibraryAutomationAPI.Controllers
             if (book == null)
                 return NotFound("Kitap bulunamadı.");
 
-            // 📌 Kullanıcı adını JWT içindeki 'sub' claim'inden alıyoruz
+            // Kullanıcı adını JWT içindeki 'sub' claim'inden alıyoruz
             var usernameClaim = User.FindFirst(ClaimTypes.NameIdentifier);
             var username = usernameClaim?.Value;
 
@@ -108,13 +108,13 @@ namespace LibraryAutomationAPI.Controllers
                 return Unauthorized($"Geçersiz kullanıcı kimliği. Okunan değer: {usernameClaim?.ToString() ?? "YOK"}");
             }
 
-            // 📌 Kitap bilgilerini güncelle
+            // Kitap bilgilerini güncelle
             book.Title = bookDto.Title;
             book.Author = bookDto.Author;
             book.Genre = bookDto.Genre;
             book.PublishDate = bookDto.PublishDate;
             book.CategoryId = bookDto.CategoryId;
-            book.LastModifiedBy = username; // 📌 Güncelleyen kullanıcı adı otomatik atanacak
+            book.LastModifiedBy = username; // Güncelleyen kullanıcı adı otomatik atanacak
 
             await _context.SaveChangesAsync();
             return NoContent();
@@ -126,12 +126,12 @@ namespace LibraryAutomationAPI.Controllers
         {
             var book = await _context.Books.FindAsync(id);
             if (book == null)
-                return NotFound("Kitap bulunamadı."); // 📌 Eğer kitap yoksa 404 döndür
+                return NotFound("Kitap bulunamadı."); 
 
             _context.Books.Remove(book);
             await _context.SaveChangesAsync();
 
-            return NoContent(); // 📌 Başarıyla silindiyse 204 No Content döndür
+            return NoContent(); // Başarıyla silindiyse 204 No Content döndür
         }
     }
 }

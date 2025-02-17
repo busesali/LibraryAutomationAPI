@@ -25,9 +25,9 @@ namespace LibraryAutomationAPI.Helpers
         {
             var claims = new List<Claim>
             {
-                new Claim(JwtRegisteredClaimNames.Sub, user.UserName), // 📌 Kullanıcı adı sub claim'ine ekleniyor
-                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()), // 📌 Benzersiz token ID
-                new Claim(ClaimTypes.Name, user.UserName) // 📌 Kullanıcı adı Name claim'ine de ekleniyor
+                new Claim(JwtRegisteredClaimNames.Sub, user.UserName), 
+                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()), // Benzersiz token ID
+                new Claim(ClaimTypes.Name, user.UserName) 
             };
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_secret));

@@ -10,18 +10,17 @@ namespace LibraryAutomationAPI.Models
         public int Id { get; set; }
 
         [Required]
-        public string Name { get; set; } // Kategori adı
+        public string Name { get; set; } 
 
-        public string Description { get; set; } // Kategori açıklaması (isteğe bağlı)
+        public string Description { get; set; } 
 
-        // 📌 Alt Kategori Desteği İçin ParentId ve ParentCategory Eklendi
         public int? ParentCategoryId { get; set; }
 
         [ForeignKey("ParentCategoryId")]
-        [JsonIgnore] // Sonsuz döngüyü önlemek için JSON'a dahil edilmez
+        [JsonIgnore] 
         public virtual Category ParentCategory { get; set; }
 
-        // 📌 Alt kategoriler listesi
+        // Alt kategoriler listesi
         public virtual ICollection<Category> SubCategories { get; set; }
     }
 }

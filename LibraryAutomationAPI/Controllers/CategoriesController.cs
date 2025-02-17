@@ -17,7 +17,7 @@ namespace LibraryAutomationAPI.Controllers
             _context = context;
         }
 
-        // 📌 1. Tüm Kategorileri Listeleme (Alt Kategorilerle Birlikte)
+        // Tüm Kategorileri Listeleme (Alt Kategorilerle Birlikte)
         [HttpGet]
         public async Task<ActionResult<IEnumerable<object>>> GetCategories()
         {
@@ -36,7 +36,6 @@ namespace LibraryAutomationAPI.Controllers
             return Ok(categories);
         }
 
-        // 📌 2. Belirli Bir Kategoriyi Getirme
         [HttpGet("{id}")]
         public async Task<ActionResult<object>> GetCategory(int id)
         {
@@ -91,7 +90,7 @@ namespace LibraryAutomationAPI.Controllers
             return NoContent();
         }
 
-        // 📌 5. Kategori Silme (Eğer Alt Kategorisi Varsa Silinemez)
+        // Kategori Silme (Eğer Alt Kategorisi Varsa Silinemez)
         [HttpDelete("{id}")]
         [Authorize]
         public async Task<IActionResult> DeleteCategory(int id)

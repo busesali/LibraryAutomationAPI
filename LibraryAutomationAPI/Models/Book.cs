@@ -20,15 +20,12 @@ namespace LibraryAutomationAPI.Models
         [Required]
         public DateTime PublishDate { get; set; }
 
-        // 📌 Kullanıcı artık CategoryName değil, CategoryId girecek.
         [Required]
         public int CategoryId { get; set; }
 
-        // 📌 Kategori ile ilişki kurduk
         [ForeignKey("CategoryId")]
         public virtual Category Category { get; set; }
 
-        // 📌 Güncelleme yapan kullanıcı artık string değil, UserId olacak.
         public string LastModifiedBy { get; set; }
     }
 }

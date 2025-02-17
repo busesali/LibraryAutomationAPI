@@ -17,7 +17,7 @@ namespace LibraryAutomationAPI.Models
         public string UserName { get; set; }
 
         [Required]
-        public string PasswordHash { get; set; }  // Şifreyi hash'li olarak tutacağız.
+        public string PasswordHash { get; set; }  // Şifreyi hash'li olarak tut.
 
     }
 }

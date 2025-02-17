@@ -171,3 +171,4 @@ C:\Users\buse\source\repos\LibraryAutomationAPI\LibraryAutomationAPI\obj\Debug\n
 C:\Users\buse\source\repos\LibraryAutomationAPI\LibraryAutomationAPI\obj\Debug\net8.0\LibraryAutomationAPI.genruntimeconfig.cache
 C:\Users\buse\source\repos\LibraryAutomationAPI\LibraryAutomationAPI\obj\Debug\net8.0\ref\LibraryAutomationAPI.dll
 C:\Users\buse\source\repos\LibraryAutomationAPI\LibraryAutomationAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\buse\source\repos\LibraryAutomationAPI\LibraryAutomationAPI\obj\Debug\net8.0\LibraryAutomationAPI.sourcelink.json
