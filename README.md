@@ -1,46 +1,46 @@
 # Library Automation API
 
-## Genel Bakış
+## Overview
 
-LibraryAutomationAPI, kütüphane kaynaklarını dijital olarak yönetmek amacıyla geliştirilmiş bir ASP.NET Core Web API uygulamasıdır. Kullanıcılar sisteme kayıt olabilir, giriş yapabilir ve JWT tabanlı kimlik doğrulama ile kitap ve kategori işlemlerini güvenli şekilde gerçekleştirebilir. SQL Server veritabanı ile çalışan bu sistem, Swagger UI sayesinde geliştiricilere kolay test imkanı sunar.
+LibraryAutomationAPI is an ASP.NET Core Web API application developed to digitally manage library resources. Users can register, log in, and perform book and category operations securely using JWT-based authentication. The system runs on a SQL Server database and offers developers an easy way to test endpoints via Swagger UI.
 
-## Özellikler
+## Features
 
-- Kullanıcı kayıt ve giriş işlemleri (JWT ile kimlik doğrulama)
-- Kitap ekleme, listeleme, güncelleme ve silme işlemleri
-- Kategori ekleme ve listeleme
-- Swagger UI üzerinden API test desteği
-- Yetkilendirme kontrollü uç noktalar
-- SQL Server veritabanı desteği
-- Entity Framework Core ile veri yönetimi
+- User registration and login with JWT authentication  
+- Book management (add, list, update, delete)  
+- Category management (add and list)  
+- API testing support through Swagger UI  
+- Authorization-controlled endpoints  
+- SQL Server database integration  
+- Data management via Entity Framework Core  
 
-## Kullanılan Teknolojiler
+## Technologies Used
 
-- ASP.NET Core 6 Web API
-- Entity Framework Core
-- SQL Server
-- JWT (JSON Web Token) Authentication
-- Swagger (Swashbuckle)
-- LINQ, Auto Mapping, Middleware yapısı
+- ASP.NET Core 6 Web API  
+- Entity Framework Core  
+- SQL Server  
+- JWT (JSON Web Token) Authentication  
+- Swagger (Swashbuckle)  
+- LINQ, Auto Mapping, Middleware architecture  
 
-## Gereksinimler
+## Requirements
 
-Bu projeyi çalıştırmak için aşağıdaki yazılımların sisteminizde kurulu olması gerekir:
+To run this project, you must have the following installed on your system:
 
 - .NET 6 SDK  
-- SQL Server (Express veya tam sürüm)
+- SQL Server (Express or full version)
 
-## Önemli API Endpointleri
+## Key API Endpoints
 
-- `POST /api/auth/register` → Yeni kullanıcı kaydı  
-- `POST /api/auth/login` → Giriş yap ve token al  
-- `GET /api/books` → Kitapları listele  
-- `POST /api/books` → Yeni kitap ekle  
-- `PUT /api/books/{id}` → Kitap bilgilerini güncelle  
-- `DELETE /api/books/{id}` → Kitap sil  
-- `GET /api/categories` → Kategorileri listele  
-- `POST /api/categories` → Yeni kategori ekle
+- `POST /api/auth/register` → Register a new user  
+- `POST /api/auth/login` → Log in and receive a token  
+- `GET /api/books` → List all books  
+- `POST /api/books` → Add a new book  
+- `PUT /api/books/{id}` → Update book details  
+- `DELETE /api/books/{id}` → Delete a book  
+- `GET /api/categories` → List all categories  
+- `POST /api/categories` → Add a new category  
 
-## Lisans
+## License
 
-Bu proje MIT Lisansı ile lisanslanmıştır. İsteyen herkes kopyalayabilir, dağıtabilir ve değiştirebilir.
+This project is licensed under the MIT License. Anyone is free to copy, distribute, and modify it.
